@@ -29,19 +29,19 @@ http://106.54.96.106/#/sales
 
 1. 销售记录列表
 
-   <img src="file:///C:\Users\Claret\Documents\Tencent Files\3113649199\Image\Group2\KA\8$\KA8$YW0@%MNCEISYAR8YC7J.jpg" alt="img" style="zoom: 25%;" />
+   <img src="https://i.loli.net/2021/09/02/mGShnNJaU7KADrw.jpg" alt="KA8_YW0@_MNCEISYAR8YC7J.jpg" style="zoom:25%;" />
 
 2. 销售记录详情
 
-   <img src="file:///C:\Users\Claret\Documents\Tencent Files\3113649199\Image\Group2\%P\7L\%P7LU2DHOB20YU%{YVL6W5D.jpg" alt="img" style="zoom:25%;" />
+   <img src="https://i.loli.net/2021/09/02/KzR1lh6PtZC3na5.jpg" alt="_P7LU2DHOB20YU__YVL6W5D.jpg" style="zoom:25%;" />
 
 3. 添加销售记录
 
-   <img src="C:\Users\Claret\AppData\Roaming\Typora\typora-user-images\image-20210902222139095.png" alt="image-20210902222139095" style="zoom:25%;" />
+   <img src="https://i.loli.net/2021/09/02/CjogbweW5XVqrz9.jpg" alt="NE4RH4GHL___@D_2K_K_R_Y.jpg" style="zoom:25%;" />
 
 4. 统计模块（包含销售额，利润，各商品销售情况）
 
-   <img src="C:\Users\Claret\AppData\Roaming\Typora\typora-user-images\image-20210902222236799.png" alt="image-20210902222236799" style="zoom:25%;" />
+   <img src="https://i.loli.net/2021/09/02/Ocf9h1Wsv85QKUy.jpg" alt="K52HQ_M_5S_4M_GLG2W9Q_F.jpg" style="zoom:25%;" />
 
 ## 改进空间
 
